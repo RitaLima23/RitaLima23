@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello 🖖
 
-<!--
-**RitaLima23/RitaLima23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍🎓, that has looking for an opportunity in development or information security. 👩🏻‍💻
 
-Here are some ideas to get you started:
+#### 📓 Não podes conhecer aquilo que não é - isto é impossível - nem expressá-lo em palavra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From MA living in Paço do Lumiar - MA
+- 🔎 Seeking an opportunity
+- 📊 Up: Pentest student 👩🏻‍💻, computer forensics 🕵🏻‍♀️, .NET c #, java, html, css and javascript
+- 🧍🏻‍♀️ I love challenges 🧐, my parents 👫🏻,
+my dog 🐶, novels 🥰, readings 📚, music 👩🏻‍🎤,  and movies with an impactful plot 🎞.
+
+Reach me out 👇🏼
