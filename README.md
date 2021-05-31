@@ -6,7 +6,7 @@ My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍�
 - 🔎 Seeking an opportunity
 - 📊 Up: html, css, javascript, ReactJs, Angular, Ux&Ui Design.
 - 🧍🏻‍♀️ I love challenges 🧐, my parents 👫🏻,novels 🥰, readings 📚, music 👩🏻‍🎤,  and movies with an impactful plot 🎞.
-- Other: Python, Java, SQL, C#, .Net e Pentest
+- Other: Python, Java, SQL, C#, .Net e Pentest Security
 
 Reach me out 👇🏼
 
