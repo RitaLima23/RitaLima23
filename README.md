@@ -1,6 +1,6 @@
 # Hello 🖖
 
-My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍🎓, that has looking for an opportunity in development Web Front-End. 👩🏻‍💻
+My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍🎓, that has looking for an opportunity in development or security analyst. 👩🏻‍💻
 
 - 📍 From MA living in Paço do Lumiar - MA
 - 🔎 Seeking an opportunity
