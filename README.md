@@ -1,9 +1,8 @@
 # Hello 🖖
 
-My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍🎓, that has looking for an opportunity in development or security analyst. 👩🏻‍💻
+My name is Rita Lima, i'm from Brazil 🌎 I'm A computer scientist 👩🏻‍🎓, and work as security analyst. 👩🏻‍💻
 
-- 📍 From MA living in Paço do Lumiar - MA
-- 🔎 Seeking an opportunity
+- 📍 From MA living in São Luis - MA
 - 📊 Up: html, css, javascript, ReactJs, Angular, Ux&Ui Design.
 - 🧍🏻‍♀️ I love challenges 🧐, my parents 👫🏻,novels 🥰, readings 📚, music 👩🏻‍🎤,  and movies with an impactful plot 🎞.
 - Other: Python, Java, SQL, C#, .Net e Pentest Security
